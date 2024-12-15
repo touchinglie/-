@@ -21,4 +21,4 @@ python main.py
 ## 截图
 
 
-[test](./screen.png)
+<img alt="show" src="screen.png" align="right">
